@@ -1,0 +1,175 @@
+TITLE
+FNG STREAMING PENCHMARK
+GLOBAL       10000.0       0.0       0.0        1.        1.
+BEAM          -0.014       0.0   10000.0       0.0       0.0       1.0NEUTRON
+BEAMPOS          0.0    1.0E-6       0.0
+USRBIN           10.   NEUTRON      -22.      49.5     77.43      49.2NFLUX
+USRBIN         -49.5     -14.1     -49.2      200.      200.      200.&
+USRBIN           10.    PHOTON      -22.      49.5     77.43      49.2PFLUX
+USRBIN         -49.5       5.3     -49.2      100.      100.      100.&
+RANDOMIZ
+START          1.0E6                                     0.0
+GEOBEGIN         0.0                                                  FLUGG
+GEOEND
+* ..+....1....+....2....+....3....+....4....+....5....+....6....+....7...
+MATERIAL                           7.954       26.                    AISI316
+MATERIAL                           7.954       27.                    2AISI316
+MATERIAL                            0.92       28.                    PERSPEX
+MATERIAL                           7.954       29.                    3AISI316
+MATERIAL                            0.92       30.                    POLYETHY
+MATERIAL          1.     1.004   8.85E-5       31.                  1.H4POLY
+MATERIAL          5.       10.      2.34       32.                 10.BORON10
+MATERIAL          5.       11.      2.34       33.                 11.BORON11
+MATERIAL         23.   50.9415      6.11       34.                    VANADIUM
+MATERIAL         24.       50.      7.18       35.                    CHROMIU
+MATERIAL         25.    54.938      7.21       36.                    MANGANES
+MATERIAL         26.    55.845     7.874       37.                    IRONNAT
+MATERIAL         42.     95.94     10.22       38.                    MOLYBNAT
+MATERIAL         41.      92.9      8.57       39.                    NIOBIUM
+* ..+....1....+....2....+....3....+....4....+....5....+....6....+....7...
+ASSIGNMA    BLCKHOLE       1.0
+ASSIGNMA      VACUUM       2.0
+ASSIGNMA       WATER       3.0
+ASSIGNMA     AISI316       4.0
+ASSIGNMA     AISI316       5.0
+ASSIGNMA       WATER       6.0
+ASSIGNMA     AISI316       7.0
+ASSIGNMA     AISI316       8.0
+ASSIGNMA     AISI316       9.0
+ASSIGNMA     AISI316       10.
+ASSIGNMA      VACUUM       11.
+ASSIGNMA     AISI316       12.
+ASSIGNMA       WATER       13.
+ASSIGNMA     AISI316       14.
+ASSIGNMA       WATER       15.
+ASSIGNMA     AISI316       16.
+ASSIGNMA         AIR       17.
+ASSIGNMA         AIR       18.
+ASSIGNMA         AIR       19.
+ASSIGNMA         AIR       20.
+ASSIGNMA         AIR       21.
+ASSIGNMA         AIR       22.
+ASSIGNMA         AIR       23.
+ASSIGNMA     AISI316       24.
+ASSIGNMA       WATER       25.
+ASSIGNMA       WATER       26.
+ASSIGNMA       WATER       27.
+ASSIGNMA     AISI316       28.
+ASSIGNMA       WATER       29.
+ASSIGNMA       WATER       30.
+ASSIGNMA     AISI316       31.
+ASSIGNMA       WATER       32.
+ASSIGNMA       WATER       33.
+ASSIGNMA     AISI316       34.
+ASSIGNMA     AISI316       35.
+ASSIGNMA     AISI316       36.
+ASSIGNMA       WATER       37.
+ASSIGNMA       WATER       38.
+ASSIGNMA       WATER       39.
+ASSIGNMA     AISI316       40.
+ASSIGNMA       WATER       41.
+ASSIGNMA       WATER       42.
+ASSIGNMA     AISI316       43.
+ASSIGNMA       WATER       44.
+ASSIGNMA       WATER       45.
+ASSIGNMA     AISI316       46.
+ASSIGNMA     AISI316       47.
+ASSIGNMA         AIR       48.
+ASSIGNMA         AIR       49.
+ASSIGNMA         AIR       50.
+ASSIGNMA         AIR       51.
+ASSIGNMA         AIR       52.
+ASSIGNMA         AIR       53.
+ASSIGNMA         AIR       54.
+ASSIGNMA         AIR       55.
+ASSIGNMA         AIR       56.
+ASSIGNMA     AISI316       57.
+ASSIGNMA     AISI316       58.
+ASSIGNMA         AIR       59.
+ASSIGNMA     AISI316       60.
+ASSIGNMA         AIR       61.
+ASSIGNMA     PERSPEX       62.
+ASSIGNMA         AIR       63.
+ASSIGNMA     AISI316       64.
+ASSIGNMA         AIR       65.
+ASSIGNMA     PERSPEX       66.
+ASSIGNMA         AIR       67.
+ASSIGNMA     AISI316       68.
+ASSIGNMA     AISI316       69.
+ASSIGNMA     AISI316       70.
+ASSIGNMA     AISI316       71.
+ASSIGNMA     AISI316       72.
+ASSIGNMA     AISI316       73.
+ASSIGNMA    3AISI316       74.
+ASSIGNMA    3AISI316       75.
+ASSIGNMA     AISI316       76.
+ASSIGNMA    3AISI316       77.
+ASSIGNMA    3AISI316       78.
+ASSIGNMA     AISI316       79.
+ASSIGNMA         AIR       80.
+ASSIGNMA     AISI316       81.
+ASSIGNMA    3AISI316       82.
+ASSIGNMA    3AISI316       83.
+ASSIGNMA    3AISI316       84.
+ASSIGNMA     AISI316       85.
+ASSIGNMA     AISI316       86.
+ASSIGNMA     AISI316       87.
+ASSIGNMA     AISI316       88.
+ASSIGNMA     PERSPEX       89.
+ASSIGNMA     AISI316       90.
+ASSIGNMA     PERSPEX       91.
+ASSIGNMA     AISI316       92.
+ASSIGNMA     PERSPEX       93.
+ASSIGNMA     AISI316       94.
+ASSIGNMA     PERSPEX       95.
+ASSIGNMA     AISI316       96.
+ASSIGNMA     AISI316       97.
+ASSIGNMA    2AISI316       98.
+ASSIGNMA         AIR       99.
+ASSIGNMA         AIR      100.
+ASSIGNMA         AIR      101.
+ASSIGNMA         AIR      102.
+ASSIGNMA         AIR      103.
+ASSIGNMA         AIR      104.
+ASSIGNMA     AISI316      105.
+ASSIGNMA    2AISI316      106.
+ASSIGNMA    2AISI316      107.
+ASSIGNMA    2AISI316      108.
+ASSIGNMA    2AISI316      109.
+ASSIGNMA         AIR      110.
+ASSIGNMA     AISI316      111.
+ASSIGNMA     AISI316      112.
+ASSIGNMA         AIR      113.
+ASSIGNMA         AIR      114.
+ASSIGNMA         AIR      115.
+ASSIGNMA    3AISI316      116.
+ASSIGNMA         AIR      117.
+ASSIGNMA         AIR      118.
+ASSIGNMA     AISI316      119.
+ASSIGNMA     AISI316      120.
+ASSIGNMA     AISI316      121.
+ASSIGNMA    BLCKHOLE      122.
+* The next volume is the implicit complement
+ASSIGNMA      VACUUM      123.
+LOW-NEUT        260.       42.                  1.                -11.
+LOW-MAT       H4POLY        1.       -3.      296.                    HYDROGEN
+LOW-MAT     VANADIUM
+LOW-MAT      BORON10        5.       10.      296.                    BORON-10
+LOW-MAT      BORON11        5.       11.      296.                    BORON-11
+LOW-MAT      CHROMIU       24.       -2.      296.                    CHROMIUM
+LOW-MAT     MANGANES
+LOW-MAT      IRONNAT       26.       -4.      296.                    IRON
+LOW-MAT     MOLYBNAT       42.       -2.      296.                    MOLYBDE
+LOW-MAT      NIOBIUM
+COMPOUND         4.0    H4POLY       2.0    CARBON                    POLYETHY
+COMPOUND         8.0    H4POLY       5.0    CARBON       2.0    OXYGENPERSPEX
+COMPOUND     -2.8E-4   BORON10   -.00287   BORON11      -.04    CARBONAISI316
+COMPOUND        -.41   SILICON     -0.16  VANADIUM   -15.194   CHROMIUAISI316
+COMPOUND       -1.14  MANGANES    -68.11   IRONNAT    -10.69    NICKELAISI316
+COMPOUND     -2.8E-4   BORON10   -.00287   BORON11      -.04    CARBON2AISI316
+COMPOUND        -.41   SILICON     -0.16  VANADIUM   -15.194   CHROMIU2AISI316
+COMPOUND       -1.14  MANGANES    -68.11   IRONNAT    -10.69    NICKEL2AISI316
+COMPOUND     -2.8E-4   BORON10   -.00287   BORON11      -.04    CARBON3AISI316
+COMPOUND        -.41   SILICON     -0.16  VANADIUM   -15.194   CHROMIU3AISI316
+COMPOUND       -1.14  MANGANES    -68.11   IRONNAT    -10.69    NICKEL3AISI316
+STOP
